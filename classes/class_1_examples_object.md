@@ -29,9 +29,6 @@ changeChannel
 
 ```
 hireBarBack
-    if hasBarBack = false
-      hasBarBack = true
-    else
-      "Bar 1 already has a bar back!"
-    end
+    hasBarBack = hasBarBack++
+      hasBarBack = 1
 ```
