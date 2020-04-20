@@ -1,6 +1,6 @@
 var food = "pulled pork";
 var isDelicious = true;
-var food = "bacon";
+food = "bacon";
 
 var num2 = 3;
 var num7 = 13;
